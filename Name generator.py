@@ -14,7 +14,7 @@ lastNamesNum = len(lastNames)
 print(firstNames[random.randint(0,firstNamesNum-1)].rstrip(), end = ' ')
 if random.randint(0,1):
     print(middleNames[random.randint(0,middleNamesNum-1)].rstrip(), end = ' ')
-if random.randint(0,3):
+if random.randint(0,3): 
     print(lastNames[random.randint(0,lastNamesNum-1)].rstrip(), end = ' ')
 
 
