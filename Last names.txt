@@ -630,5 +630,3 @@ Pillai
 Raghavan
 Rajan
 Shetty
-python -u "e:\Random Indian name generator\Write names.py"
-2
